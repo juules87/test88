@@ -1,0 +1,16 @@
+{
+    "contents" : "test<-function(x){\nsqrt(x)\n}\n",
+    "created" : 1437499802762.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "611881852",
+    "id" : "A9383D09",
+    "lastKnownWriteTime" : 1438024533,
+    "path" : "C:/Users/Julien/Desktop/Food/test88/R/test88.R",
+    "project_path" : "R/test88.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
